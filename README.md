@@ -1,6 +1,11 @@
-<h1 align="center"> JinTaePark Technical Skills</h1>
+<h1 align="center"> JinTaePark Technical Report</h1>
 
-<h3>🛠사용언어</h3>
+<h3>🛠프로젝트</h3>
+<div>
+
+</div>
+
+<h3>활용기술</h3>
 <div>
 <img src="https://img.shields.io/static/v1?label=skill&message=DeepLearning&color=brighgreen" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/static/v1?label=language&message=python&color=green" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
